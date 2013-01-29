@@ -1,0 +1,63 @@
+//Versione: 0.01
+{
+
+	"Lombardia": 
+		["Bergamo", "Brescia", "Como", "Cremona", "Lecco", "Lodi", "Mantova", "Milano", "Monza e Brianza", "Pavia", "Sondrio", "Varese"]
+	,
+	"Campania": 
+		["Avellino", "Benevento", "Caserta", "Napoli", "Salerno"]
+	,
+	"Lazio": 
+		["Frosinone", "Latina", "Rieti", "Roma", "Viterbo"]
+	,
+	"Sicilia":
+		["Agrigento", "Caltanissetta", "Catania", "Enna", "Messina", "Palermo", "Ragusa", "Siracusa", "Trapani"]
+	,
+	"Veneto":
+		["Belluno", "Padova", "Rovigo", "Treviso", "Venezia", "Verona", "Vicenza"]
+	,
+	"Piemonte":
+		["Alessandria", "Asti", "Biella", "Cuneo", "Novara", "Torino", "Verbano Cusio Ossola", "Vercelli"]
+	,
+	"Emilia-Romagna":
+		["Bologna", "Ferrara", "Forlì-Cesena", "Modena", "Parma", "Piacenza", "Ravenna", "Reggio Emilia", "Rimini"]
+	,
+	"Puglia":
+		["Bari", "Barletta-Andria-Trani", "Brindisi", "Lecce", "Foggia", "Taranto"]
+	,
+	"Toscana":
+		["Arezzo", "Firenze", "Grosseto", "Livorno", "Lucca", "Massa e Carrara", "Pisa", "Pistoia", "Prato", "Siena"]
+	,
+	"Calabria":
+		["Catanzaro", "Cosenza", "Crotone", "Reggio Calabria", "Vibo Valentia"]
+	,
+	"Sardegna":
+		["Cagliari", "Carbonia-Iglesias", "Medio Campidano", "Nuoro", "Ogliastra", "Olbia-Tempio", "Oristano", "Sassari"]
+	,
+	"Liguria":
+		["Genova", "Imperia", "La Spezia", "Savona"]
+	,	
+	"Marche":
+		["Ancona", "Ascoli Piceno", "Fermo", "Macerata", "Pesaro e Urbino"]
+	,
+	"Abruzzo":
+		["Chieti", "L'Aquila", "Pescara", "Teramo"]
+	,
+	"Friuli-Venezia Giulia":
+		["Gorizia", "Pordenone", "Trieste", "Udine"]
+	,
+	"Trentino-Alto Adige":
+		["Bolzano", "Trento"]
+	,
+	"Umbria":
+		["Perugia", "Terni"]
+	,
+	"Basilicata":
+		["Matera", "Potenza"]
+	,
+	"Molise":
+		["Campobasso", "Isernia"]
+	,
+	"Valle d'Aosta":
+		["Aosta"]
+}
