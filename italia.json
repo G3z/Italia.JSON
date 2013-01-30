@@ -1,62 +1,122 @@
 {
 
 	"Lombardia": 
-		["Bergamo", "Brescia", "Como", "Cremona", "Lecco", "Lodi", "Mantova", "Milano", "Monza e Brianza", "Pavia", "Sondrio", "Varese"]
+	{
+		"Capoluoghi": ["Bergamo", "Brescia", "Como", "Cremona", "Lecco", "Lodi", "Mantova", "Milano", "Monza e Brianza", "Pavia", "Sondrio", "Varese"],
+		"Province":["BG","BS","CO","CR","LC","LO","MN","MI","MB","PV","SO","VA"]
+	}
 	,
 	"Campania": 
-		["Avellino", "Benevento", "Caserta", "Napoli", "Salerno"]
+	{
+		"Capoluoghi": ["Avellino", "Benevento", "Caserta", "Napoli", "Salerno"],
+		"Province":["AV","BN","CE","NA","SA"]
+	}
 	,
 	"Lazio": 
-		["Frosinone", "Latina", "Rieti", "Roma", "Viterbo"]
+	{
+		"Capoluoghi": ["Frosinone", "Latina", "Rieti", "Roma", "Viterbo"],
+		"Province":["FR","LT","RI","RM","VT"]
+	}
 	,
 	"Sicilia":
-		["Agrigento", "Caltanissetta", "Catania", "Enna", "Messina", "Palermo", "Ragusa", "Siracusa", "Trapani"]
+	{
+		"Capoluoghi": ["Agrigento", "Caltanissetta", "Catania", "Enna", "Messina", "Palermo", "Ragusa", "Siracusa", "Trapani"],
+		"Province":["AG","CL","CT","EN","ME","PA","RG","SR","TP"]
+	}
 	,
 	"Veneto":
-		["Belluno", "Padova", "Rovigo", "Treviso", "Venezia", "Verona", "Vicenza"]
+	{
+		"Capoluoghi": ["Belluno", "Padova", "Rovigo", "Treviso", "Venezia", "Verona", "Vicenza"],
+		"Province":["BL","PD","RO","TV","VE","VR","VI"]
+	}
 	,
 	"Piemonte":
-		["Alessandria", "Asti", "Biella", "Cuneo", "Novara", "Torino", "Verbano Cusio Ossola", "Vercelli"]
+	{
+		"Capoluoghi": ["Alessandria", "Asti", "Biella", "Cuneo", "Novara", "Torino", "Verbano Cusio Ossola", "Vercelli"],
+		"Province":["AL","AT","BI","CN","NO","TO","VB","VC"]
+	}
 	,
 	"Emilia-Romagna":
-		["Bologna", "Ferrara", "Forlì-Cesena", "Modena", "Parma", "Piacenza", "Ravenna", "Reggio Emilia", "Rimini"]
+	{
+		"Capoluoghi": ["Bologna", "Ferrara", "Forlì-Cesena", "Modena", "Parma", "Piacenza", "Ravenna", "Reggio Emilia", "Rimini"],
+		"Province":["BO","FE","FC","MO","PR","PC","RA","RE","RN"]
+	}
 	,
 	"Puglia":
-		["Bari", "Barletta-Andria-Trani", "Brindisi", "Lecce", "Foggia", "Taranto"]
+	{
+		"Capoluoghi": ["Bari", "Barletta-Andria-Trani", "Brindisi", "Lecce", "Foggia", "Taranto"],
+		"Province":["BA","BT","BR","FG","LE","TA"]
+	}
 	,
 	"Toscana":
-		["Arezzo", "Firenze", "Grosseto", "Livorno", "Lucca", "Massa e Carrara", "Pisa", "Pistoia", "Prato", "Siena"]
+	{
+		"Capoluoghi": ["Arezzo", "Firenze", "Grosseto", "Livorno", "Lucca", "Massa e Carrara", "Pisa", "Pistoia", "Prato", "Siena"],
+		"Province":["AR","FI","GR","LI","LU","MS"]
+	}
 	,
 	"Calabria":
-		["Catanzaro", "Cosenza", "Crotone", "Reggio Calabria", "Vibo Valentia"]
+	{
+		"Capoluoghi": ["Catanzaro", "Cosenza", "Crotone", "Reggio Calabria", "Vibo Valentia"],
+		"Province":["CZ","CS","KR","RC","VV"]
+	}
 	,
 	"Sardegna":
-		["Cagliari", "Carbonia-Iglesias", "Medio Campidano", "Nuoro", "Ogliastra", "Olbia-Tempio", "Oristano", "Sassari"]
+	{
+		"Capoluoghi": ["Cagliari", "Carbonia-Iglesias", "Medio Campidano", "Nuoro", "Ogliastra", "Olbia-Tempio", "Oristano", "Sassari"],
+		"Province":["CA","CI","VS","NU","OG","OT","OR","SS"]
+	}
 	,
 	"Liguria":
-		["Genova", "Imperia", "La Spezia", "Savona"]
+	{
+		"Capoluoghi": ["Genova", "Imperia", "La Spezia", "Savona"],
+		"Province":["GE","IM","SP","SV"]
+	}
 	,	
 	"Marche":
-		["Ancona", "Ascoli Piceno", "Fermo", "Macerata", "Pesaro e Urbino"]
+	{
+		"Capoluoghi": ["Ancona", "Ascoli Piceno", "Fermo", "Macerata", "Pesaro e Urbino"],
+		"Province":["AN","AP","FM","MC","PU"]
+	}
 	,
 	"Abruzzo":
-		["Chieti", "L'Aquila", "Pescara", "Teramo"]
+	{
+		"Capoluoghi": ["Chieti", "L'Aquila", "Pescara", "Teramo"],
+		"Province":["CH","AQ","PE","TE"]
+	}
 	,
 	"Friuli-Venezia Giulia":
-		["Gorizia", "Pordenone", "Trieste", "Udine"]
+	{
+		"Capoluoghi": ["Gorizia", "Pordenone", "Trieste", "Udine"],
+		"Province":["GO","PN","TS","UD"]
+	}
 	,
 	"Trentino-Alto Adige":
-		["Bolzano", "Trento"]
+	{
+		"Capoluoghi": ["Bolzano", "Trento"],
+		"Province":["BZ","TN"]
+	}
 	,
 	"Umbria":
-		["Perugia", "Terni"]
+	{
+		"Capoluoghi": ["Perugia", "Terni"],
+		"Province":["PG","TR"]
+	}
 	,
 	"Basilicata":
-		["Matera", "Potenza"]
+	{
+		"Capoluoghi": ["Matera", "Potenza"],
+		"Province":["MT","PZ"]
+	}
 	,
 	"Molise":
-		["Campobasso", "Isernia"]
+	{
+		"Capoluoghi": ["Campobasso", "Isernia"],
+		"Province":["CB","IS"]
+	}
 	,
 	"Valle d'Aosta":
-		["Aosta"]
+	{
+		"Capoluoghi": ["Aosta"],
+		"Province":["AO"]
+	}
 }
