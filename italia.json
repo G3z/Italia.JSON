@@ -2,49 +2,14 @@
 	"regioni": 
 	[
 		{
-			"nome": "Lombardia",
-			"capoluoghi": ["Bergamo", "Brescia", "Como", "Cremona", "Lecco", "Lodi", "Mantova", "Milano", "Monza e Brianza", "Pavia", "Sondrio", "Varese"],
-			"province":["BG","BS","CO","CR","LC","LO","MN","MI","MB","PV","SO","VA"]
+			"nome": "Abruzzo",
+			"capoluoghi": ["Chieti", "L'Aquila", "Pescara", "Teramo"],
+			"province":["CH","AQ","PE","TE"]
 		},
 		{
-			"nome": "Campania",
-			"capoluoghi": ["Avellino", "Benevento", "Caserta", "Napoli", "Salerno"],
-			"province":["AV","BN","CE","NA","SA"]
-		},
-		{
-			"nome": "Lazio",
-			"capoluoghi": ["Frosinone", "Latina", "Rieti", "Roma", "Viterbo"],
-			"province":["FR","LT","RI","RM","VT"]
-		},
-		{
-			"nome": "Sicilia",
-			"capoluoghi": ["Agrigento", "Caltanissetta", "Catania", "Enna", "Messina", "Palermo", "Ragusa", "Siracusa", "Trapani"],
-			"province":["AG","CL","CT","EN","ME","PA","RG","SR","TP"]
-		},
-		{
-			"nome": "Veneto",
-			"capoluoghi": ["Belluno", "Padova", "Rovigo", "Treviso", "Venezia", "Verona", "Vicenza"],
-			"province":["BL","PD","RO","TV","VE","VR","VI"]
-		},
-		{
-			"nome": "Piemonte",
-			"capoluoghi": ["Alessandria", "Asti", "Biella", "Cuneo", "Novara", "Torino", "Verbano Cusio Ossola", "Vercelli"],
-			"province":["AL","AT","BI","CN","NO","TO","VB","VC"]
-		},
-		{
-			"nome": "Emilia-Romagna",
-			"capoluoghi": ["Bologna", "Ferrara", "Forlì-Cesena", "Modena", "Parma", "Piacenza", "Ravenna", "Reggio Emilia", "Rimini"],
-			"province":["BO","FE","FC","MO","PR","PC","RA","RE","RN"]
-		},
-		{
-			"nome": "Puglia",
-			"capoluoghi": ["Bari", "Barletta-Andria-Trani", "Brindisi", "Lecce", "Foggia", "Taranto"],
-			"province":["BA","BT","BR","FG","LE","TA"]
-		},
-		{
-			"nome": "Toscana",
-			"capoluoghi": ["Arezzo", "Firenze", "Grosseto", "Livorno", "Lucca", "Massa e Carrara", "Pisa", "Pistoia", "Prato", "Siena"],
-			"province":["AR","FI","GR","LI","LU","MS"]
+			"nome": "Basilicata",
+			"capoluoghi": ["Matera", "Potenza"],
+			"province":["MT","PZ"]
 		},
 		{
 			"nome": "Calabria",
@@ -52,9 +17,24 @@
 			"province":["CZ","CS","KR","RC","VV"]
 		},
 		{
-			"nome": "Sardegna",
-			"capoluoghi": ["Cagliari", "Carbonia-Iglesias", "Medio Campidano", "Nuoro", "Ogliastra", "Olbia-Tempio", "Oristano", "Sassari"],
-			"province":["CA","CI","VS","NU","OG","OT","OR","SS"]
+			"nome": "Campania",
+			"capoluoghi": ["Avellino", "Benevento", "Caserta", "Napoli", "Salerno"],
+			"province":["AV","BN","CE","NA","SA"]
+		},
+		{
+			"nome": "Emilia-Romagna",
+			"capoluoghi": ["Bologna", "Ferrara", "Forlì-Cesena", "Modena", "Parma", "Piacenza", "Ravenna", "Reggio Emilia", "Rimini"],
+			"province":["BO","FE","FC","MO","PR","PC","RA","RE","RN"]
+		},
+		{
+			"nome": "Friuli-Venezia Giulia",
+			"capoluoghi": ["Gorizia", "Pordenone", "Trieste", "Udine"],
+			"province":["GO","PN","TS","UD"]
+		},
+		{
+			"nome": "Lazio",
+			"capoluoghi": ["Frosinone", "Latina", "Rieti", "Roma", "Viterbo"],
+			"province":["FR","LT","RI","RM","VT"]
 		},
 		{
 			"nome": "Liguria",
@@ -62,19 +42,44 @@
 			"province":["GE","IM","SP","SV"]
 		},	
 		{
+			"nome": "Lombardia",
+			"capoluoghi": ["Bergamo", "Brescia", "Como", "Cremona", "Lecco", "Lodi", "Mantova", "Milano", "Monza e Brianza", "Pavia", "Sondrio", "Varese"],
+			"province":["BG","BS","CO","CR","LC","LO","MN","MI","MB","PV","SO","VA"]
+		},
+		{
 			"nome": "Marche",
 			"capoluoghi": ["Ancona", "Ascoli Piceno", "Fermo", "Macerata", "Pesaro e Urbino"],
 			"province":["AN","AP","FM","MC","PU"]
 		},
 		{
-			"nome": "Abruzzo",
-			"capoluoghi": ["Chieti", "L'Aquila", "Pescara", "Teramo"],
-			"province":["CH","AQ","PE","TE"]
+			"nome": "Molise",
+			"capoluoghi": ["Campobasso", "Isernia"],
+			"province":["CB","IS"]
 		},
 		{
-			"nome": "Friuli-Venezia Giulia",
-			"capoluoghi": ["Gorizia", "Pordenone", "Trieste", "Udine"],
-			"province":["GO","PN","TS","UD"]
+			"nome": "Piemonte",
+			"capoluoghi": ["Alessandria", "Asti", "Biella", "Cuneo", "Novara", "Torino", "Verbano Cusio Ossola", "Vercelli"],
+			"province":["AL","AT","BI","CN","NO","TO","VB","VC"]
+		},
+		{
+			"nome": "Puglia",
+			"capoluoghi": ["Bari", "Barletta-Andria-Trani", "Brindisi", "Lecce", "Foggia", "Taranto"],
+			"province":["BA","BT","BR","FG","LE","TA"]
+		},
+		{
+			"nome": "Sardegna",
+			"capoluoghi": ["Cagliari", "Carbonia-Iglesias", "Medio Campidano", "Nuoro", "Ogliastra", "Olbia-Tempio", "Oristano", "Sassari"],
+			"province":["CA","CI","VS","NU","OG","OT","OR","SS"]
+		},
+		{
+			"nome": "Sicilia",
+			"capoluoghi": ["Agrigento", "Caltanissetta", "Catania", "Enna", "Messina", "Palermo", "Ragusa", "Siracusa", "Trapani"],
+			"province":["AG","CL","CT","EN","ME","PA","RG","SR","TP"]
+		},
+		{
+			"nome": "Toscana",
+			"capoluoghi": ["Arezzo", "Firenze", "Grosseto", "Livorno", "Lucca", "Massa e Carrara", "Pisa", "Pistoia", "Prato", "Siena"],
+			"province":["AR","FI","GR","LI","LU","MS"]
 		},
 		{
 			"nome": "Trentino-Alto Adige",
@@ -87,19 +92,14 @@
 			"province":["PG","TR"]
 		},
 		{
-			"nome": "Basilicata",
-			"capoluoghi": ["Matera", "Potenza"],
-			"province":["MT","PZ"]
-		},
-		{
-			"nome": "Molise",
-			"capoluoghi": ["Campobasso", "Isernia"],
-			"province":["CB","IS"]
-		},
-		{
 			"nome": "Valle d'Aosta",
 			"capoluoghi": ["Aosta"],
 			"province":["AO"]
+		},
+		{
+			"nome": "Veneto",
+			"capoluoghi": ["Belluno", "Padova", "Rovigo", "Treviso", "Venezia", "Verona", "Vicenza"],
+			"province":["BL","PD","RO","TV","VE","VR","VI"]
 		}
 	]
 }

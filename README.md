@@ -1,10 +1,11 @@
-Italia.JSON
+Italia.json
 ===========
 
-File JSON contenente dati geografici di uso comune
+File JSON contenente dati geografici di uso comune.
+
 
 Changelog
 ===========
 
-v0.0.1
+- Regioni ordinate per ordine lessicografico sul nome
 - Lista delle regioni e provincie italiane
