@@ -79,7 +79,7 @@
 		{
 			"nome": "Toscana",
 			"capoluoghi": ["Arezzo", "Firenze", "Grosseto", "Livorno", "Lucca", "Massa e Carrara", "Pisa", "Pistoia", "Prato", "Siena"],
-			"province":["AR","FI","GR","LI","LU","MS"]
+			"province":["AR","FI","GR","LI","LU","MS","PI","PT","PO","SI"]
 		},
 		{
 			"nome": "Trentino-Alto Adige",
