@@ -35180,6 +35180,550 @@
                         }
                     ], 
                     "nome": "Massa e Carrara"
+                }, 
+                {
+                    "code": "PI", 
+                    "comuni": [
+                        {
+                            "code": "050001", 
+                            "cap": "56031", 
+                            "nome": "Bientina"
+                        }, 
+                        {
+                            "code": "050002", 
+                            "cap": "56032", 
+                            "nome": "Buti"
+                        }, 
+                        {
+                            "code": "050003", 
+                            "cap": "56011", 
+                            "nome": "Calci"
+                        }, 
+                        {
+                            "code": "050004", 
+                            "cap": "56012", 
+                            "nome": "Calcinaia"
+                        }, 
+                        {
+                            "code": "050005", 
+                            "cap": "56033", 
+                            "nome": "Capannoli"
+                        }, 
+                        {
+                            "code": "050006", 
+                            "cap": "56040", 
+                            "nome": "Casale Marittimo"
+                        }, 
+                        {
+                            "code": "050007", 
+                            "cap": "56034", 
+                            "nome": "Casciana Terme"
+                        }, 
+                        {
+                            "code": "050008", 
+                            "cap": "56021", 
+                            "nome": "Cascina"
+                        }, 
+                        {
+                            "code": "050009", 
+                            "cap": "56022", 
+                            "nome": "Castelfranco di Sotto"
+                        }, 
+                        {
+                            "code": "050010", 
+                            "cap": "56040", 
+                            "nome": "Castellina Marittima"
+                        }, 
+                        {
+                            "code": "050011", 
+                            "cap": "56041", 
+                            "nome": "Castelnuovo di Val di Cecina"
+                        }, 
+                        {
+                            "code": "050012", 
+                            "cap": "56034", 
+                            "nome": "Chianni"
+                        }, 
+                        {
+                            "code": "050013", 
+                            "cap": "56040", 
+                            "nome": "Crespina"
+                        }, 
+                        {
+                            "code": "050014", 
+                            "cap": "56043", 
+                            "nome": "Fauglia"
+                        }, 
+                        {
+                            "code": "050015", 
+                            "cap": "56040", 
+                            "nome": "Guardistallo"
+                        }, 
+                        {
+                            "code": "050016", 
+                            "cap": "56030", 
+                            "nome": "Lajatico"
+                        }, 
+                        {
+                            "code": "050017", 
+                            "cap": "56035", 
+                            "nome": "Lari"
+                        }, 
+                        {
+                            "code": "050018", 
+                            "cap": "56043", 
+                            "nome": "Lorenzana"
+                        }, 
+                        {
+                            "code": "050019", 
+                            "cap": "56040", 
+                            "nome": "Montecatini Val di Cecina"
+                        }, 
+                        {
+                            "code": "050020", 
+                            "cap": "56040", 
+                            "nome": "Montescudaio"
+                        }, 
+                        {
+                            "code": "050021", 
+                            "cap": "56040", 
+                            "nome": "Monteverdi Marittimo"
+                        }, 
+                        {
+                            "code": "050022", 
+                            "cap": "56020", 
+                            "nome": "Montopoli in Val d'Arno"
+                        }, 
+                        {
+                            "code": "050023", 
+                            "cap": "56040", 
+                            "nome": "Orciano Pisano"
+                        }, 
+                        {
+                            "code": "050024", 
+                            "cap": "56036", 
+                            "nome": "Palaia"
+                        }, 
+                        {
+                            "code": "050025", 
+                            "cap": "56037", 
+                            "nome": "Peccioli"
+                        }, 
+                        {
+                            "code": "050026", 
+                            "cap": "5612x", 
+                            "nome": "Pisa"
+                        }, 
+                        {
+                            "code": "050027", 
+                            "cap": "56045", 
+                            "nome": "Pomarance"
+                        }, 
+                        {
+                            "code": "050028", 
+                            "cap": "56038", 
+                            "nome": "Ponsacco"
+                        }, 
+                        {
+                            "code": "050029", 
+                            "cap": "56025", 
+                            "nome": "Pontedera"
+                        }, 
+                        {
+                            "code": "050030", 
+                            "cap": "56046", 
+                            "nome": "Riparbella"
+                        }, 
+                        {
+                            "code": "050031", 
+                            "cap": "56017", 
+                            "nome": "San Giuliano Terme"
+                        }, 
+                        {
+                            "code": "050032", 
+                            "cap": "56028", 
+                            "nome": "San Miniato"
+                        }, 
+                        {
+                            "code": "050033", 
+                            "cap": "56029", 
+                            "nome": "Santa Croce sull'Arno"
+                        }, 
+                        {
+                            "code": "050034", 
+                            "cap": "56040", 
+                            "nome": "Santa Luce"
+                        }, 
+                        {
+                            "code": "050035", 
+                            "cap": "56020", 
+                            "nome": "Santa Maria a Monte"
+                        }, 
+                        {
+                            "code": "050036", 
+                            "cap": "56030", 
+                            "nome": "Terricciola"
+                        }, 
+                        {
+                            "code": "050037", 
+                            "cap": "56019", 
+                            "nome": "Vecchiano"
+                        }, 
+                        {
+                            "code": "050038", 
+                            "cap": "56010", 
+                            "nome": "Vicopisano"
+                        }, 
+                        {
+                            "code": "050039", 
+                            "cap": "56048", 
+                            "nome": "Volterra"
+                        }
+                    ], 
+                    "nome": "Pisa"
+                }, 
+                {
+                    "code": "PT", 
+                    "comuni": [
+                        {
+                            "code": "047001", 
+                            "cap": "51021", 
+                            "nome": "Abetone"
+                        }, 
+                        {
+                            "code": "047002", 
+                            "cap": "51031", 
+                            "nome": "Agliana"
+                        }, 
+                        {
+                            "code": "047003", 
+                            "cap": "51011", 
+                            "nome": "Buggiano"
+                        }, 
+                        {
+                            "code": "047022", 
+                            "cap": "51013", 
+                            "nome": "Chiesina Uzzanese"
+                        }, 
+                        {
+                            "code": "047004", 
+                            "cap": "51024", 
+                            "nome": "Cutigliano"
+                        }, 
+                        {
+                            "code": "047005", 
+                            "cap": "51035", 
+                            "nome": "Lamporecchio"
+                        }, 
+                        {
+                            "code": "047006", 
+                            "cap": "51036", 
+                            "nome": "Larciano"
+                        }, 
+                        {
+                            "code": "047007", 
+                            "cap": "51010", 
+                            "nome": "Marliana"
+                        }, 
+                        {
+                            "code": "047008", 
+                            "cap": "51010", 
+                            "nome": "Massa e Cozzile"
+                        }, 
+                        {
+                            "code": "047009", 
+                            "cap": "51015", 
+                            "nome": "Monsummano Terme"
+                        }, 
+                        {
+                            "code": "047010", 
+                            "cap": "51037", 
+                            "nome": "Montale"
+                        }, 
+                        {
+                            "code": "047011", 
+                            "cap": "51016", 
+                            "nome": "Montecatini-Terme"
+                        }, 
+                        {
+                            "code": "047012", 
+                            "cap": "51017", 
+                            "nome": "Pescia"
+                        }, 
+                        {
+                            "code": "047013", 
+                            "cap": "51018", 
+                            "nome": "Pieve a Nievole"
+                        }, 
+                        {
+                            "code": "047014", 
+                            "cap": "51100", 
+                            "nome": "Pistoia"
+                        }, 
+                        {
+                            "code": "047015", 
+                            "cap": "51020", 
+                            "nome": "Piteglio"
+                        }, 
+                        {
+                            "code": "047016", 
+                            "cap": "51019", 
+                            "nome": "Ponte Buggianese"
+                        }, 
+                        {
+                            "code": "047017", 
+                            "cap": "51039", 
+                            "nome": "Quarrata"
+                        }, 
+                        {
+                            "code": "047018", 
+                            "cap": "51020", 
+                            "nome": "Sambuca Pistoiese"
+                        }, 
+                        {
+                            "code": "047019", 
+                            "cap": "51028", 
+                            "nome": "San Marcello Pistoiese"
+                        }, 
+                        {
+                            "code": "047020", 
+                            "cap": "51030", 
+                            "nome": "Serravalle Pistoiese"
+                        }, 
+                        {
+                            "code": "047021", 
+                            "cap": "51010", 
+                            "nome": "Uzzano"
+                        }
+                    ], 
+                    "nome": "Pistoia"
+                }, 
+                {
+                    "code": "PO", 
+                    "comuni": [
+                        {
+                            "code": "100001", 
+                            "cap": "59025", 
+                            "nome": "Cantagallo"
+                        }, 
+                        {
+                            "code": "100002", 
+                            "cap": "59015", 
+                            "nome": "Carmignano"
+                        }, 
+                        {
+                            "code": "100003", 
+                            "cap": "59013", 
+                            "nome": "Montemurlo"
+                        }, 
+                        {
+                            "code": "100004", 
+                            "cap": "59016", 
+                            "nome": "Poggio a Caiano"
+                        }, 
+                        {
+                            "code": "100005", 
+                            "cap": "59100", 
+                            "nome": "Prato"
+                        }, 
+                        {
+                            "code": "100006", 
+                            "cap": "59021", 
+                            "nome": "Vaiano"
+                        }, 
+                        {
+                            "code": "100007", 
+                            "cap": "59024", 
+                            "nome": "Vernio"
+                        }
+                    ], 
+                    "nome": "Prato"
+                }, 
+                {
+                    "code": "SI", 
+                    "comuni": [
+                        {
+                            "code": "052001", 
+                            "cap": "53021", 
+                            "nome": "Abbadia San Salvatore"
+                        }, 
+                        {
+                            "code": "052002", 
+                            "cap": "53041", 
+                            "nome": "Asciano"
+                        }, 
+                        {
+                            "code": "052003", 
+                            "cap": "53022", 
+                            "nome": "Buonconvento"
+                        }, 
+                        {
+                            "code": "052004", 
+                            "cap": "53031", 
+                            "nome": "Casole d'Elsa"
+                        }, 
+                        {
+                            "code": "052005", 
+                            "cap": "53011", 
+                            "nome": "Castellina in Chianti"
+                        }, 
+                        {
+                            "code": "052006", 
+                            "cap": "53019", 
+                            "nome": "Castelnuovo Berardenga"
+                        }, 
+                        {
+                            "code": "052007", 
+                            "cap": "53023", 
+                            "nome": "Castiglione d'Orcia"
+                        }, 
+                        {
+                            "code": "052008", 
+                            "cap": "53040", 
+                            "nome": "Cetona"
+                        }, 
+                        {
+                            "code": "052009", 
+                            "cap": "53042", 
+                            "nome": "Chianciano Terme"
+                        }, 
+                        {
+                            "code": "052010", 
+                            "cap": "53012", 
+                            "nome": "Chiusdino"
+                        }, 
+                        {
+                            "code": "052011", 
+                            "cap": "53043", 
+                            "nome": "Chiusi"
+                        }, 
+                        {
+                            "code": "052012", 
+                            "cap": "53034", 
+                            "nome": "Colle di Val d'Elsa"
+                        }, 
+                        {
+                            "code": "052013", 
+                            "cap": "53013", 
+                            "nome": "Gaiole in Chianti"
+                        }, 
+                        {
+                            "code": "052014", 
+                            "cap": "53024", 
+                            "nome": "Montalcino"
+                        }, 
+                        {
+                            "code": "052015", 
+                            "cap": "53045", 
+                            "nome": "Montepulciano"
+                        }, 
+                        {
+                            "code": "052016", 
+                            "cap": "53035", 
+                            "nome": "Monteriggioni"
+                        }, 
+                        {
+                            "code": "052017", 
+                            "cap": "53014", 
+                            "nome": "Monteroni d'Arbia"
+                        }, 
+                        {
+                            "code": "052018", 
+                            "cap": "53015", 
+                            "nome": "Monticiano"
+                        }, 
+                        {
+                            "code": "052019", 
+                            "cap": "53016", 
+                            "nome": "Murlo"
+                        }, 
+                        {
+                            "code": "052020", 
+                            "cap": "53025", 
+                            "nome": "Piancastagnaio"
+                        }, 
+                        {
+                            "code": "052021", 
+                            "cap": "53026", 
+                            "nome": "Pienza"
+                        }, 
+                        {
+                            "code": "052022", 
+                            "cap": "53036", 
+                            "nome": "Poggibonsi"
+                        }, 
+                        {
+                            "code": "052023", 
+                            "cap": "53017", 
+                            "nome": "Radda in Chianti"
+                        }, 
+                        {
+                            "code": "052024", 
+                            "cap": "53040", 
+                            "nome": "Radicofani"
+                        }, 
+                        {
+                            "code": "052025", 
+                            "cap": "53030", 
+                            "nome": "Radicondoli"
+                        }, 
+                        {
+                            "code": "052026", 
+                            "cap": "53040", 
+                            "nome": "Rapolano Terme"
+                        }, 
+                        {
+                            "code": "052027", 
+                            "cap": "53040", 
+                            "nome": "San Casciano dei Bagni"
+                        }, 
+                        {
+                            "code": "052028", 
+                            "cap": "53037", 
+                            "nome": "San Gimignano"
+                        }, 
+                        {
+                            "code": "052029", 
+                            "cap": "53020", 
+                            "nome": "San Giovanni d'Asso"
+                        }, 
+                        {
+                            "code": "052030", 
+                            "cap": "53027", 
+                            "nome": "San Quirico d'Orcia"
+                        }, 
+                        {
+                            "code": "052031", 
+                            "cap": "53047", 
+                            "nome": "Sarteano"
+                        }, 
+                        {
+                            "code": "052032", 
+                            "cap": "53100", 
+                            "nome": "Siena"
+                        }, 
+                        {
+                            "code": "052033", 
+                            "cap": "53048", 
+                            "nome": "Sinalunga"
+                        }, 
+                        {
+                            "code": "052034", 
+                            "cap": "53018", 
+                            "nome": "Sovicille"
+                        }, 
+                        {
+                            "code": "052035", 
+                            "cap": "53049", 
+                            "nome": "Torrita di Siena"
+                        }, 
+                        {
+                            "code": "052036", 
+                            "cap": "53020", 
+                            "nome": "Trequanda"
+                        }
+                    ], 
+                    "nome": "Siena"
                 }
             ], 
             "nome": "Toscana"
