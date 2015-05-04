@@ -7,7 +7,7 @@ File JSON contenente dati geografici di uso comune. Il repository contiene:
 - italia.json: json con regioni e province
 - italia_comuni.json: json con regioni, province e comuni
 
-##install via npm##
+##install via npm
 
 ```javascript
 npm install italia
