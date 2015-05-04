@@ -1,0 +1,17 @@
+{
+  "name": "italia",
+  "version": "1.0.0",
+  "description": "Comuni e regioni italiane",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G3z/Italia.JSON.git"
+  },
+  "author": "G[3z]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G3z/Italia.JSON/issues"
+  },
+  "homepage": "https://github.com/G3z/Italia.JSON#readme"
+}
