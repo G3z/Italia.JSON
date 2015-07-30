@@ -64,7 +64,7 @@
 		{
 			"nome": "Puglia",
 			"capoluoghi": ["Bari", "Barletta-Andria-Trani", "Brindisi", "Lecce", "Foggia", "Taranto"],
-			"province":["BA","BT","BR","FG","LE","TA"]
+			"province":["BA","BT","BR","LE","FG","TA"]
 		},
 		{
 			"nome": "Sardegna",
